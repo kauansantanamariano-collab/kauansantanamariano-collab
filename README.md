@@ -34,25 +34,6 @@ Olá! Sou **Kauan Mariano**, estudante do **2º semestre de Análise e Desenvolv
 
 ---
 
-## ▶️ Como compilar e executar
-
-### Pré-requisitos
-- GCC instalado (`gcc --version`)
-
-### Compilar em C
-```bash
-gcc nome_do_arquivo.c -o programa
-./programa
-```
-
-### Compilar em C++
-```bash
-g++ nome_do_arquivo.cpp -o programa
-./programa
-```
-
----
-
 ## 📚 Disciplinas do curso
 
 - ✅ Lógica de Programação
